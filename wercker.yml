@@ -3,5 +3,3 @@ build:
   steps:
     - shellcheck:
         files: run.sh
-    - ytakky2014/line-notifier@0.1.0:
-        access_token: $PERSONAL_ACCESS_TOKEN
