@@ -1,5 +1,5 @@
 name: line-notifier
-version: 0.1.0
+version: 0.1.1
 description: Posts wercker status to Line
 keywords:
   - notification
