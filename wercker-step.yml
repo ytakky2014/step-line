@@ -5,6 +5,6 @@ keywords:
   - notification
   - line
 properties:
-  personal_access_token:
+  token:
     type: string
     required: true
