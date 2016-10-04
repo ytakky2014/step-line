@@ -1,0 +1,10 @@
+name: line-notifier
+version: 0.1.0
+description: Posts wercker status to Line
+keywords:
+  - notification
+  - line
+properties:
+  personal_access_token:
+    type: string
+    required: true
