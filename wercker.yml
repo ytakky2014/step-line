@@ -4,4 +4,4 @@ build:
     - shellcheck:
         files: run.sh
     - ytakky2014/line-notifier@0.1.0:
-        token: $PERSONAL_ACCESS_TOKEN
+        access_token: $PERSONAL_ACCESS_TOKEN
