@@ -7,4 +7,5 @@ fi
 
 export MESSAGE="$WERCKER_APPLICATION_NAME : $WERCKER_RESULT "
 
+
 curl -v -X POST -H "Authorization: Bearer $WERCKER_LINE_ACCESS_TOKEN" -F "message=$MESSAGE" https://notify-api.line.me/api/notify
