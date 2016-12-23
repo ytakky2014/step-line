@@ -1,6 +1,8 @@
 # line-notify
 
-Send a message to [LINE](https://line.me/en/) Using [LINE Notify](https://notify-bot.line.me/ja/)
+line-notify is [Wercker](http://www.wercker.com/) step.
+You can get wercker notification in [LINE](https://line.me/en/) Using [LINE Notify](https://notify-bot.line.me/en/)
+
 
 
 ## required
